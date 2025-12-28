@@ -3,3 +3,4 @@ Implementation of basic concepts from Machine Leanrning, Statistics and Math use
 Here is a list of the concepts covered:
 1) An Introduction to Splines and Smoothing
 2) Simulating Geometric Brownian Motion using Monte Carlo Simulations
+3) A Brief Introduction to Finite Difference Methods
